@@ -1,0 +1,6 @@
+D:\T7\Sample\TMS_Sample\C#\Step3\obj\Release\TMS_Sample.ConfigureForm.resources
+D:\T7\Sample\TMS_Sample\C#\Step3\obj\Release\TMS_Sample.TMS_SampleForm.resources
+D:\T7\Sample\TMS_Sample\C#\Step3\obj\Release\TMS_SampleStep3.csproj.GenerateResource.Cache
+D:\T7\Sample\TMS_Sample\C#\Step3\bin\Release\TMS_SampleStep3.exe.config
+D:\T7\Sample\TMS_Sample\C#\Step3\bin\Release\TMS_SampleStep3.exe
+D:\T7\Sample\TMS_Sample\C#\Step3\obj\Release\TMS_SampleStep3.exe
